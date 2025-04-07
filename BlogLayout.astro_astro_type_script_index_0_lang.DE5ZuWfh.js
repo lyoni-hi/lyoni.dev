@@ -1,0 +1,2 @@
+import"./Layout.astro_astro_type_script_index_0_lang.KpJ1KfaQ.js";import"./polyfills.Cc8Gd0uS.js";function e(){const t=document.body.classList.contains("dark")?"dark":"light";document.getElementById("prism-theme").setAttribute("href",`/styles/prism-one-${t}.css`)}document.addEventListener("themechange",e);document.head.append(Object.assign(document.createElement("link"),{id:"prism-theme",rel:"stylesheet"}));e();
+//# sourceMappingURL=BlogLayout.astro_astro_type_script_index_0_lang.DE5ZuWfh.js.map
